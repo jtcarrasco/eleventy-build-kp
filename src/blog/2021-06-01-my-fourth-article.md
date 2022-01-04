@@ -1,7 +1,6 @@
 ---
 title: My Fourth Article
 author: Kevin Powell
-date: 2021-06-01
 tags: post
 image: /assets/blog/article-4.jpg
 imageAlt: This is a test
